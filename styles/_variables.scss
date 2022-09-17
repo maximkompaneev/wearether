@@ -1,0 +1,56 @@
+:root {
+    // ----------------------------------------------------
+    // COLORS
+    // ----------------------------------------------------
+    --color-primary: #605D75;
+    --color-secondary: #E5E1E6;
+    --color-light: #FFFFFF;
+    --color-dark: #383838;
+    --color-tertiary: #F9F9FA;
+
+    // ----------------------------------------------------
+    // FONT WEIGHTS
+    // ----------------------------------------------------
+    --font-weight-thin: 100;
+    --font-weight-extra-light: 200;
+    --font-weight-light: 300;
+    --font-weight-base: 400;
+    --font-weight-medium: 500;
+    --font-weight-semi-bold: 600;
+    --font-weight-bold: 700;
+    --font-weight-super: 800;
+    --font-weight-black: 900;
+
+    // ----------------------------------------------------
+    // FONT SIZES
+    // ----------------------------------------------------
+    --font-size-root: 16px; // default root font-size
+    --font-size-xxSmall: 8px;
+    --font-size-xSmall: 10px;
+    --font-size-small: 12px;
+    --font-size-medium: 14px;
+    --font-size-base: 16px;
+    --font-size-large: 18px;
+    --font-size-xLarge: 20px;
+    --font-size-xxLarge: 24px;
+
+    // ----------------------------------------------------
+    // LINE HEIGHTS
+    // ----------------------------------------------------
+    --line-height-reset: 1;
+    --line-height-small: 1.15;
+    --line-height-base: 1.2;
+    --line-height-large: 1.67;
+
+    // ----------------------------------------------------
+    // TRANSITIONS + ANIMATIONS
+    // ----------------------------------------------------
+    --transition-base: all .15s ease-in-out;
+
+    // ----------------------------------------------------
+    // CONSTANTS
+    // ----------------------------------------------------
+    --header-height: 52px;
+    --header-height-expanded: 76px;
+    --logo-medium-height: 32px;
+}

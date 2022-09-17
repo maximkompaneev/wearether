@@ -1,0 +1,28 @@
+@import "variables";
+@import "spacing";
+@import "fonts";
+
+html{
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    font-family: "ITCAvantGardeStd", "Arial", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+picture {
+    display: flex;
+    align-items: flex-start;
+}
