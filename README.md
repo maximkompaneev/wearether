@@ -2,7 +2,14 @@ This is wearether app - aplication that gives you advices about what to wear bas
 
 ## Getting Started
 
-First, run the development server:
+First install packages using
+```bash
+npm i
+# or
+yarn install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
